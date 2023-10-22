@@ -1,4 +1,4 @@
-# TinyTrafficNet User Guide
+# TinyTrafficNet
 
 **Notification: We will organize and open the source code after the paper reviewed**
 
