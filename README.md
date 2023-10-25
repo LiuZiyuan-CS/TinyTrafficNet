@@ -4,6 +4,4 @@
 
 ## Software Requirement
 
-## BeST Scenario User Guide
-
 ## Train
